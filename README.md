@@ -8,4 +8,6 @@ O meu grupo apresentou para turma, oque era o varejo 4.0. Esse trabalho foi impo
 
 Produzimos uma simulação em modo de imagens de como seria um aplicativo nosso, o nome do nosso aplicativo foi Lunar Games.
 
-### Aprendendo a Mecher no GitHub: [Repositório aulaMarkdown](.
+### Aprendendo a Mecher no GitHub: [Repositório aulaMarkdown](https://github.com/Caio87879/aulaMarkdown).
+
+Aprendemos como usar o GitHUb e alguns códigos, graças a essa aula estou conseguindo fazer esse trabalho.
