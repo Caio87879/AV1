@@ -34,3 +34,18 @@ Quer saber mais sobre branches, grafo e commit, [clique aqui.](https://learn.mic
 
 
 Quer saber mais? clique [aqui.](https://www.hostinger.com.br/tutoriais/o-que-github)
+
+
+## VSCODE
+
+O Visual Studio Code(VSCODE) é simplesmente um dos editores de código-fonte mais utilizados no mundo da programação.
+Disponível para os sistemas operacionais mais conhecidos, leve e destinado a diferentes linguagens de programação, esse editor pode facilitar consideravelmente a vida de qualquer programador.
+Entretanto, para que ele realmente agregue valor ao seu trabalho, é necessário saber como operá-lo, desde a sua instalação até as operações de edição de código.
+
+ criado pela Microsoft e lançado no ano de 2015. Muito embora tenha surgido recentemente, sua adesão já é considerável entre os profissionais de TI.
+Nesse sentido, o VS Code é, basicamente, um editor que auxilia os programadores na criação de um código de software, sobretudo nas importantes fases de codificação e testes, e que está disponível para os sistemas operacionais Windows, Mac e Linux.
+Convém mencionar, ainda, que essa ferramenta conta com suporte a muitas e diversas linguagens de programação e é open source. Isso quer dizer que o seu código é aberto e qualquer pessoa pode contribuir com melhorias para o seu desenvolvimento. 
+
+![VSCODE](https://miro.medium.com/v2/resize:fit:480/1*MGcLJS1ZvMFcBA94PXn16Q.png)
+
+Para [mais informações é so clicar](https://www.remessaonline.com.br/blog/visual-studio-code-confira-as-principais-funcoes-da-ferramenta/)!
